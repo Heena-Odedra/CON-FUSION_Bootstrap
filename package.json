@@ -11,6 +11,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.2.2"
+    "lite-server": "^2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heena-Odedra/Bootstrap_try.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Heena-Odedra/Bootstrap_try/issues"
+  },
+  "homepage": "https://github.com/Heena-Odedra/Bootstrap_try#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
   }
 }
