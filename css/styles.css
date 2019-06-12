@@ -63,3 +63,9 @@ body {
 .reserve_table {
     padding: 20px;
 }
+
+#carouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
